@@ -28,18 +28,6 @@
 
 <br/>
 
-## Support
-
-I do need **support** from amazing people like you as I started posting on **[My Linkedin](https://linkedin.com/in/rammcodes)** and want each one of you to checkout **[My Linkedin](https://linkedin.com/in/rammcodes)** Profile where I post amazing content related to Programming & Web Development 🚀
-
-<a href="https://linkedin.com/in/rammcodes">
-<div align="center">
-  <img src="https://i.postimg.cc/3RhcKdTD/www-linkedin-com-in-rammcodes-4.png" alt="Ram Maheshwari Linkedin Profile" width="100%" />
-  <br>
-</div>
-</a>
-
-<br/>
 
 ---
 
@@ -776,15 +764,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 ---
 
 <br>
-
-## Author 👨‍💻
-
-- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
-
 <br>
-
-#### Note: 
-I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my email id **rammcodes@gmail.com** 🙌
 
 
 <br>
